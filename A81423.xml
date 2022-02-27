@@ -1,0 +1,433 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between the French King, and the late King James at St. Germains en Laye: occasion'd by the signing of the peace.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81423</idno>
+            <idno type="STC">Wing D1331A</idno>
+            <idno type="STC">ESTC R222259</idno>
+            <idno type="EEBO-CITATION">99833447</idno>
+            <idno type="PROQUEST">99833447</idno>
+            <idno type="VID">171560</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81423)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171560)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2174:11, 2569:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between the French King, and the late King James at St. Germains en Laye: occasion'd by the signing of the peace.</title>
+                  <author>James II, King of England, 1633-1701, associated name.</author>
+                  <author>Louis XIV, King of France, 1638-1715, associated name.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin, near the Oxford-Arms, in Warwick-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satiric dialogue referring to the Treaty of Ryswick.</note>
+                  <note>Item at 2174:11 identified on UMI microfilm "Early English books, 1641-1700" as Wing L3118A (number cancelled in 2nd ed.).</note>
+                  <note>Imperfect: tightly bound, with heavy print show-through.</note>
+                  <note>Reproduction of the original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Humor --  Early works to 1800.</term>
+               <term>Louis --  XIV, --  King of France, 1638-1715 --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Humor --  Early works to 1800.</term>
+               <term>Europe --  Politics and government --  1648-1715 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:171560:1"/>
+            <pb facs="tcp:171560:1" rendition="simple:additions"/>
+            <p>A DIALOGUE Between the <hi>French King,</hi> And the LATE King <hi>JAMES.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:171560:2"/>
+            <pb facs="tcp:171560:2"/>
+            <p>A DIALOGUE Between the <hi>French King,</hi> And the LATE King <hi>JAMES,</hi> At St. <hi>Germains en Laye:</hi> Occaſion'd by the Signing of the PEACE.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick-Lane.</hi> 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:171560:3" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:171560:3"/>
+            <head>A DIALOGUE Between the <hi>French King,</hi> And the Late King <hi>JAMES.</hi>
+            </head>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>
+                  <hi>BON jour Mon Couſin.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>I hope your Majeſty will excuſe my want of Breeding. To tell you the Truth, Sir, I am quite out of love with any thing of <hi>French.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>Why ſo out of humour, Sir?</p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:171560:4"/>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Not without Cauſe, Sir, if I may be a Judge in my own Caſe; I preſume your Majeſty can<g ref="char:EOLhyphen"/>not but know the Occaſion.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>Upon my Honour, not I; Madam <hi>de Maintenon</hi> and I have been Solacing our ſelves, congra<g ref="char:EOLhyphen"/>tulating each other upon the good News of a Peace.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>And I upon the ſame Ac<g ref="char:EOLhyphen"/>count have been Curſing my Cruel Fate, and Falſe Friends.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>Sir, I hope you are not come to affront me. But that I am in an extream good Humour, I might have reſented ſuch an Ex<g ref="char:EOLhyphen"/>preſſion.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Your Majeſty may do with me as you pleaſe; I have loſt Three Kingdoms already, and I have nothing left now worth lo<g ref="char:EOLhyphen"/>ſing.</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:171560:4"/>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>Come, Sir, let me deſire you to curb your Paſſion, and guide your ſelf by Reaſon.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Is this a time to talk of Reaſon, when Experience tells me I am in a fair way to beg my Bread?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>What would you have me do?</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>As you promiſed me, Sir, and as I promiſed my dear Friends ſoon after I came here, That you would not put up your Sword, till you had revenged my Quarrel, and replaced me on the Throne from whence the Heretical Crew expelled me.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>'Tis true, Sir, I drew my Sword, and will not put it up my ſelf; yet upon a ſecond Conſide<g ref="char:EOLhyphen"/>ration, the <hi>Dauphin</hi> ſhall; and real<g ref="char:EOLhyphen"/>ly it is not juſt he ſhould inherit a waſted Kingdom, nor that I ſhould
+<pb n="4" facs="tcp:171560:5"/>entail upon him a perpetual War with his Neighbours; therefore I have adviſed him to take your Grandfather's Motto, <hi>Beati Pacifici;</hi> knowing by my own Experience the fatal Miſchiefs of War.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Truly, Sir, I think you cannot in Honour make a Peace with the Prince of <hi>Orange,</hi> ſo long as he keeps me out of my Throne.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>Put Intereſt in one Scale, and Honour in the other, you'll find it a meer Trifle.—Neceſſity has no Law.—You have been my Penſioner theſe Nine Years, and not only your ſelf and Bedfellow, but the little Prince, as you call him, and a Gallimaufrey of Highlanders, Rapparees, and Renegado's, have been fed and cloathed at my Charge. Is all this nothing?</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:171560:5"/>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Worſe than nothing, Sir, except you had compleated that meritorious Work of Re-enthroning me. But if I had had the leaſt thoughts how I ſhould have been ſerved, I would long ere now have come to Compoſition with my Subjects: The <hi>Engliſh</hi> are na<g ref="char:EOLhyphen"/>turally Honeſt and Good natur'd, and I am perſwaded would have allowed me the Intereſt, though not the Principal.—But now, Sir, I have no hopes.—</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>Recollect your Memory, and you may remember that I lent you an Army in <hi>Ireland,</hi> which with your <hi>own</hi> Courage, and the Aſſiſtance of ſome able Friends in <hi>England</hi> and <hi>Scotland,</hi> might have enabled you to regain your Poſt; but no ſooner did the King of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> offer you Battle, but away you run, and left my Men to
+<pb n="6" facs="tcp:171560:6"/>be knockt o'th' Head at the <hi>Boyne.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Natural Infirmities, Sir, you know are unavoidable. 'Twas nothing but what I deriv'd from my peaceable Grandfather; my Brother <hi>Charles</hi> had a little of his Hypocriſy, and I too much of his Courage; yet, Sir, I can remem<g ref="char:EOLhyphen"/>ber how I ſwing'd the <hi>Dutch</hi> brave<g ref="char:EOLhyphen"/>ly, when I peept out of my For<g ref="char:EOLhyphen"/>tification of Cable-Ropes, and cried Halloo Boys, halloo. Oh! how I made the Rogues ſcamper!—but now I grow old and unfit for Mar<g ref="char:EOLhyphen"/>tial Exerciſe.—</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>
+                  <hi>Luis d'ores</hi> you have ſquan<g ref="char:EOLhyphen"/>dred away without number, under pretence of Secret Service, for ſup<g ref="char:EOLhyphen"/>plying the Neceſſities of the Loyal Clergy, for Correſpondence with Great Men at Court; providing Arms and Ammunition to beat up the Prince of <hi>Orange</hi>'s Quarters,
+<pb n="7" facs="tcp:171560:6"/>and a round Sum for Pamphleteers, New-writers, Ballad-makers, Pri<g ref="char:EOLhyphen"/>vate Preſſes, and Wagerers.—But where's the Fruit of all this?</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Sir, you are too haſty; I had as fine a Plot on the Stocks as any Jeſuit in <hi>Europe</hi> could in<g ref="char:EOLhyphen"/>vent, and would have Launcht it in two or three Months, if this damn'd Peace had not prevent<g ref="char:EOLhyphen"/>ed it.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>Well remembred; This brings to mind your fertile Inventi<g ref="char:EOLhyphen"/>ons and Abortive Executions. I ſup<g ref="char:EOLhyphen"/>poſe you have not forgot the Che<g ref="char:EOLhyphen"/>valier <hi>Granvil</hi>'s good Succeſs; That was a rare Contrivance of yours, o' my word, had it been well effected!</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Succeſs is not in the Hands of Man, Sir; if it were, I had had as good Succeſs with the Prince of <hi>Orange,</hi> as you had with the Duke of <hi>Loraine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:171560:7"/>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>Your Son <hi>Berwick</hi> offer<g ref="char:EOLhyphen"/>ed to bring the Prince of <hi>Orange</hi> Dead or Alive, upon Condition that I would give him a Marſhals Staff; but that Project fail'd.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>'Tis true, Sir; the Duke took the Sacrament on't, but forgot <hi>Ned Petres</hi> Benediction. I'm ſure I did my endeavour on my bare Knees; and if <hi>Ave-Mary</hi>'s and <hi>Pater-Noſter</hi>'s would have effected it, I had carried the Day. For my part, I believe the Virgin was aſleep, and St. <hi>Loyala</hi> thick of hearing, elſe why ſhould I be thus diſappoint<g ref="char:EOLhyphen"/>ed?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>I'll tell you why, Sir; your Faith has not been well-grounded; you have expected Mountains, and are fain to content your ſelf with Mole-hills; Could you ever think to reaſſume your Abdicated Throne, by the help of a pack of deſperate
+<pb n="9" facs="tcp:171560:7"/>forlorn Fellows, who have liv'd up<g ref="char:EOLhyphen"/>on the Odd Pence you could ſpare out of my Allowance? And whilſt they pretended a Tenderneſs of Conſcience, would have cut your own Throat with as little Remorſe as <hi>Rookwood</hi> or <hi>Cranbourn</hi> would have Aſſaſſinated your Son-in-Law.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>I am perſuaded, Sir, That Glorious Work had been done by my Faithful Servants and Martyrs, had not thoſe Two Traitors, <hi>De La Rue,</hi> and <hi>Pendergraſs</hi> told Tales. I ſay, Sir, A man can do no more than he can do; and if ſuch Enterprizes fail, we are the leſs beholden to Heaven.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>I am ſorry, Sir, you are Born under ſo Malevolent a Planet; If my Stars had been ſo unkind to me, I ſhould ſcarce have been <hi>Louis Le Grand</hi> now, and weathered the
+<pb n="10" facs="tcp:171560:8"/>Point through ſo many Campaigns as I have done. But now I grow in years, it is high time to be quiet, for I'd fain go to Heaven in Peace.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>'Tis True, you have had better ſucceſs than I, Sir; but you may thank your Ammunition, Sir, 'tis that has done you many a good piece of Service. You Charg'd your Cannon with <hi>Luid'ores,</hi> and fill'd your Bombs with <hi>Piſtoles,</hi> which upon the firſt Diſcharge made the Gates fly open, and the Governors your Humble Servants.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>Not always neither; you may remember how <hi>Aſhby</hi> put a Trick upon me, and was the occaſion of my loſing the <hi>Royal-Sun,</hi> and put the <hi>Chevalier de Tour<g ref="char:EOLhyphen"/>ville</hi> in ſuch a Diſorder, that I could never ſince get him to look the <hi>Engliſh</hi> Fleet in the Face,
+<pb n="11" facs="tcp:171560:8"/>though between you and I, I ne<g ref="char:EOLhyphen"/>ver intended he ſhould.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>That was a Diſappoint<g ref="char:EOLhyphen"/>ment, Sir; But how was I ſerved at <hi>Salisbury!</hi> but I'll ſay that for my ſelf, if my Noſe had not bled, I'd have ſpoil'd the <hi>Dutch</hi> having Trade for ever; but ſuch things are ominous.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>To none but Cowards, Sir; you might have kept your Kingdoms till now, had you ſhuffled your Cards well; but you Drove too faſt to keep your ſelf i'th Box.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>I did all for the beſt, Sir, out of a tender regard to Mother-Church. It was upon that account, Sir, That I ſent my Bro<g ref="char:EOLhyphen"/>ther <hi>Charles</hi> to Heaven a little be<g ref="char:EOLhyphen"/>fore his Time. He was too ſluggiſh to promote the Catholick Intereſt, and therefore I ſent him
+<pb n="12" facs="tcp:171560:9"/>packing. In requital for this, and ſome other little Tricks I put upon my Subjects, they ſent me to take the Air at St. <hi>Ger<g ref="char:EOLhyphen"/>mains;</hi> but I'll remember 'em, if ever I make 'em another Viſit.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>None but a Madman would hope for ſuch a thing. However, Sir, I beſeech you don't rely upon me for any Aſſiſtance; for to tell you the truth, I have done the utmoſt that lay in my power; I have Exhauſted my Kingdom to that degree, both of Men and Money, that 'tis e'en heart ſick, and I am afraid I ſhall hardly live to ſee it recover again. I have flung away Million after Million to gain the <hi>Univerſal Mo<g ref="char:EOLhyphen"/>narchy,</hi> but am farther from it now than ever. Had it not been for ſome Truſty Correſpondents in <hi>England,</hi> who now and then preſented me
+<pb n="13" facs="tcp:171560:9"/>with a Brace or two of <hi>Eaſt-India</hi> Men, or a <hi>Virginia</hi> Fleet, I had been quite Unhing'd long ago.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>I hope your Majeſty for<g ref="char:EOLhyphen"/>gets the Service my Privateers have done ſometimes.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>Now and then, Sir, they have brought me in a <hi>Collier,</hi> or a <hi>Mackeril</hi>-Boat, but that won't pay my Armies. As for my Fleet, I have made but little uſe of them ſince the Surfeit they got at <hi>La Hogue,</hi> which made 'em keep a long Quar<g ref="char:EOLhyphen"/>rantain at <hi>Thoulon</hi> to my Coſt, I'm ſure, whilſt the <hi>Confederates</hi> very bountifully flung their Fireworks into my Sea-port Towns for joy. But if you had had no other Allowance than the Purchaſe of your Priva<g ref="char:EOLhyphen"/>teers, you might have drank Small Beer and Beverage, inſtead of <hi>Champain</hi> and <hi>Burgundy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:171560:10"/>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>My Men are afraid the Prince of <hi>Orange</hi> will put 'em to the ſqueak, if he gets 'em; and they are naturally averſe to the ſmell of <hi>Engliſh</hi> Hemp. But if I live to ſee <hi>England</hi> again, I'll make your Maje<g ref="char:EOLhyphen"/>ſty amends.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>Pray don't let the thoughts of a Kingdom diſturb you: I had great hopes once of being King of <hi>Great Britain</hi> my Self, and that would have made me Amends ſuffi<g ref="char:EOLhyphen"/>cient: But now neither you nor I are like to be the better for it.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Truly, Sir, to ſpeak like a Philoſopher, Crowns are but En<g ref="char:EOLhyphen"/>cumbrances; yet it goes a little a<g ref="char:EOLhyphen"/>gainſt the grain, to ſee my Son-in-Law take up my Crown, before I think fit to lay it down.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>You know the <hi>Engliſh</hi> Pro<g ref="char:EOLhyphen"/>verb, <hi>What can't be cur'd, muſt be <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ndur'd.</hi> I have told you more than
+<pb n="15" facs="tcp:171560:10"/>once, I have done to the utmoſt of my Ability; and I had better make a Peace with Honour, than be com<g ref="char:EOLhyphen"/>pell'd to it by Force. Heaven runs counter to all my Deſigns, and in<g ref="char:EOLhyphen"/>ſtead of giving Peace, I ſhall in a little time be glad to beg it: For Money I have none, and Men grow ſcarce; laſt Year I was in great hopes to have broke the League, and then I'de have pickt the Bones of the <hi>Confederates</hi> one after another, but that fail'd. This Year I made ſure of the <hi>Spaniſh Flota</hi> that would have fill'd my Bags bravely, but was fain to content my ſelf with the Plunder of <hi>Carthagena,</hi> and glad I got off ſo: The <hi>Engliſh</hi> Fleet have made themſelves amends by Sacking <hi>Petit Guaves,</hi> and Snapping the <hi>Buccaniers.</hi> So that when all theſe things are conſidered, I ſhall hardly be Two-pence the better for the Expedition.
+<pb n="16" facs="tcp:171560:11"/>I thought <hi>Pointi</hi>'s Cargo would have been Gold Duſt and Diamonds; but inſtead of that, he has brought me home the Twelve Apoſtles and the Virgin <hi>Mary,</hi> which for fear of diſpleaſing the Clergy, I dare not melt.—You can't be ignorant what Showers of Gold I rain'd in <hi>Poland,</hi> to get the Crown for <hi>Conti,</hi> but there the Rogues have ſhamm'd me, and choſe the Elector of <hi>Saxony.</hi> My good Friends and Allies at the <hi>Port</hi> are put to the Rout by the <hi>Imperialiſts:</hi> I wiſh I had <hi>Cheteau-Neuf</hi> in my Cabinet at <hi>Marli,</hi> he'll be torn a-pieces for telling ſuch a pack of Lies. I made 'em believe I was ſtrong enough to raiſe Contri<g ref="char:EOLhyphen"/>butions as far as the Gates of <hi>Vienna,</hi> but inſtead of that, Monſieur <hi>Choiſeul</hi> is fain to content himſelf with paſ<g ref="char:EOLhyphen"/>ſing and repaſſing the <hi>Rhine,</hi> and has the ſatisfaction of ſeeing <hi>Eberenbourg</hi>
+                  <pb n="17" facs="tcp:171560:11"/>taken before his Face. 'Tis true, I took <hi>Barcelona</hi> and <hi>Aeth,</hi> but had it not been to gain the <hi>Grand Point,</hi> I had rather have let it alone; how<g ref="char:EOLhyphen"/>ever it has ſaved the Hangman a labour, and me the trouble of Diſ<g ref="char:EOLhyphen"/>banding a great many, who for want of Employment have turned Free-booters. And in <hi>Flanders,</hi> do what I can, your Son-in-Law is too cun<g ref="char:EOLhyphen"/>ning for me.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Then your Majeſty is re<g ref="char:EOLhyphen"/>ſolved to ſign Peace.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>It is already done, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>And has your Majeſty ac<g ref="char:EOLhyphen"/>knowledged the Prince of <hi>Orange</hi> King of <hi>England</hi> whilſt I live?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>Upon the Word of a King I have.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>I hope your Majeſty has obſerved the Diſtinction between a King <hi>de Facto</hi> and <hi>de Jure.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:171560:12"/>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>Truly, Sir, it is too late now to mind Diſtinctions; I have done it, and can't undo it if I would; I muſt be a Slave to my Word now; and to confirm the Sincerity of my Intentions, have gi<g ref="char:EOLhyphen"/>ven him his Principality of <hi>Orange</hi> into the Bargain.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Then I'm undone indeed, for I deſign'd to have begg'd that for my ſhare, and he ſhould have been a Titular Prince as well as my ſelf. But what Proviſion for my Son, the Prince of <hi>Wales?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>None at all, Sir; if you are willing to take my Advice, ſend him to his Mother, if you know where to find her; or if you had rather, I'll prefer him to be a <hi>Valet de Chambre</hi> to the Dutcheſs of <hi>Burgundy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>No, Sir, I'll make him a Clergy-man, he's a forward Child.
+<pb n="19" facs="tcp:171560:12"/>But, pray Sir, what ſeparate Arti<g ref="char:EOLhyphen"/>cle for the Relief of thoſe faithful, tho unfortunate Fools, the afflicted and diſtreſſed Cavaliers in <hi>England?</hi> I expect the firſt Fleet from thence will bring over ſome Thouſands to implore your Majeſty's Protection. I have nothing left to Succour or Support them my ſelf, but I hope your moſt Chriſtian Majeſty won't forget their Service.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>No, Sir, by no means, I deſign to preſent them to the King of <hi>Morocco;</hi> he's a dull Fellow, yet has done me ſome little Service a<g ref="char:EOLhyphen"/>gainſt the <hi>Spaniards,</hi> and I ought to make him amends; but if he has no occaſion for them, they'll ſerve to ſtock my Plantations; they have been Sick of the <hi>Scurvy</hi> a long time, courſe Fare, and hard Labour will be good for the Health of their Bodies.</p>
+            </sp>
+            <sp>
+               <pb n="20" facs="tcp:171560:13"/>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <p>Now it comes into my head, What does your Majeſty think of a Deſcent upon <hi>Jeruſalem,</hi> and the Holy Land? That would be a glorious Conqueſt.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>F.</hi> K.</speaker>
+               <p>Pray, Sir, trouble me no more with your Projects; I'll per<g ref="char:EOLhyphen"/>ſuade the Old Gentleman to ſend you a Cardinal's Cap to ſtrengthen your Whimſical Brain; and for your Spouſe, when an Abbeſsſhip is va<g ref="char:EOLhyphen"/>cant, I won't forget her. And ſo, Sir, adieu.</p>
+            </sp>
+            <sp>
+               <speaker>K. <hi>J.</hi>
+               </speaker>
+               <l>I'll bear my Croſs with Pati<g ref="char:EOLhyphen"/>ence if I can;</l>
+               <l>Ah! <hi>Coleman, Coleman,</hi> there's no Faith in Man.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171560:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
